@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url('./images/bg-intro-desktop.png');
+    background-color: hsl(0, 100%, 74%) ;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.container{
+    width: 80%;
+    margin: 120px auto;
+}
+
+.main-text{
+    width: 50%;
+}
+
+.forms{
+    width: 50%;
+}
+
+h1{
+    font-weight: 700;
+}
+
+.card{
+    border-radius: 10px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 7px 5px 0px;
+}
+
+.btn{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 7px 5px 0px;
+}
+
+.btn-1{
+    background-color: hsl(248, 32%, 49%);
+    color: hsl(246, 25%, 77%);
+}
+
+.btn-1:hover{
+    color: hsl(246, 25%, 77%);
+}
+
+.btn-2{
+    color: #fff;
+    background-color: hsl(154, 59%, 51%);
+}
+
+.btn-2:hover{
+    color: #fff;
+}
+
+.text{
+    color: hsl(246, 25%, 77%);
+}
+
+a{
+    color: hsl(0, 100%, 74%);
+}
+
+a:hover{
+    color: hsl(0, 100%, 74%);
+}
+
+#msg{
+    color: hsl(0, 100%, 74%);
+    font-weight: bold;
+}
+
+@media(max-width: 768px){
+    body{
+        background-image: url('./images/bg-intro-mobile.png');
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .main-text{
+        width: 100%;
+    }
+    
+    .forms{
+        width: 100%;
+    }
+}
