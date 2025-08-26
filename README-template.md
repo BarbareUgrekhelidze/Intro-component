@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro component with sign up form solution
 
-This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://github.com/barbare999/Intro-component.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://github.com/BarbareUgrekhelidze/Intro-component.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/Intro-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/Intro-component.git)
+- Live Site URL: [Add live site URL here](https://github.com/BarbareUgrekhelidze/Intro-component.git)
 
 ## My process
 
@@ -37,5 +37,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Intro component](https://barbare999.github.io/Intro-component/);
+- Website - [Intro component](https://BarbareUgrekhelidze.github.io/Intro-component/);
 - Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999);
